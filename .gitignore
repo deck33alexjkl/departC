@@ -1,1 +1,17 @@
+# Fichiers C
 *.out
+*.o
+
+# Fichiers Vim
+*.swo
+*.swp
+
+# Fichiers temporaires
+*.old
+*.tmp
+*.bak
+
+# Exemple de repertoire à ignorer
+bin/
+build/
+
